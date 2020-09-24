@@ -22,8 +22,8 @@
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
     </ul>
     <h3>bbbbbb</h3>
-    <h3>bbbbbb</h3>
-    <h3>bbbbbbbb</h3>
+    <h3>aaaaaaa</h3>
+    <h3>aaaaaaa</h3>
 	<h3>ccccccc</h3>
 	<h3>ccccccc</h3>
   </div>
