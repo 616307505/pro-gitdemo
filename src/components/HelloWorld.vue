@@ -21,13 +21,10 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
     </ul>
-    <h3>ttttttt</h3>
+    <h3>ccccccc</h3>
     <h3>aaaaaaa</h3>
     <h3>aaaaaaa</h3>
-	<h3>dddddd</h3>
-	<h3>dddddd</h3>
-	<h3>rrrrrr</h3>
-	<h3>rrrrrr</h3>
+
   </div>
 </template>
 
