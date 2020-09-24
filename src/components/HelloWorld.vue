@@ -24,10 +24,7 @@
     <h3>ttttttt</h3>
     <h3>aaaaaaa</h3>
     <h3>aaaaaaa</h3>
-	<h3>dddddd</h3>
-	<h3>dddddd</h3>
-	<h3>rrrrrr</h3>
-	<h3>rrrrrr</h3>
+
   </div>
 </template>
 
