@@ -21,9 +21,9 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
     </ul>
-    <h3>ccccccc</h3>
+    <h3>ooooooo</h3>
     <h3>aaaaaaa</h3>
-    <h3>aaaaaaa</h3>
+    <h3>ppppppp</h3>
 
   </div>
 </template>
