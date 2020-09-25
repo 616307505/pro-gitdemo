@@ -3,6 +3,7 @@
 	<h1>测试44444</h1>
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+	<h1>aaaaaa</h1>
 </template>
 
 <script>
